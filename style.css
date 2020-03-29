@@ -18,11 +18,12 @@ li {
   	padding: 15px 20px;
 }
 
-.header-list li:hover {
+.header-list li:hover,.logo p:hover  {
 	background-color: white;
 	color: #000;
-	transition: 0.3s;
+	transition: 0.5s;
 	cursor: pointer;
+	
 }
 
 /* Main Section */
@@ -56,12 +57,7 @@ li {
 	color: #e8e413;
 }
 
-.logo p:hover {
-	background-color: white;
-	color: #000;
-	transition: 0.3s;
-	cursor: pointer;
-}
+
 
 .content button {
 	border-radius: 2px;

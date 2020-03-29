@@ -62,3 +62,11 @@ li {
 	transition: 0.3s;
 	cursor: pointer;
 }
+
+.content button {
+	border-radius: 2px;
+	height: 65px;
+	width: 150px;
+	font-size: 20px;
+	background-color: #ed881c;
+}
